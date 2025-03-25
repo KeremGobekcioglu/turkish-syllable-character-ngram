@@ -20,3 +20,18 @@ Big thanks to [Mustafa Keskin](https://www.kaggle.com/mustfkeskin) for sharing t
 ## 📦 Note on Data Files
 
 The generated `.json` files for n-gram counts are **excluded** from this repository due to their large size.
+
+## 📄 Project Report
+
+A detailed explanation of the project, methodology, and results can be found in the report:
+
+📘 **[Turkish Language Modeling with N-Grams (PDF)](./Turkish%20Language%20Modeling%20with%20N%20Grams.pdf)**
+
+This report covers:
+- The motivation behind the project
+- Data preprocessing and syllable segmentation
+- N-gram generation for characters and syllables
+- Evaluation metrics (e.g., perplexity)
+- Results and analysis
+
+We recommend reading it for a full understanding of the system.
